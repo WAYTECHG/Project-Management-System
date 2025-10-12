@@ -1,0 +1,201 @@
+# depslib dependency file v1.0
+1752172551 source:c:\users\user\documents\year 2 (sem 3)\cpp\final project\final_project\main.cpp
+	<iostream>
+	"ProjectManagementSystem.h"
+
+1752170885 c:\users\user\documents\year 2 (sem 3)\cpp\final project\final_project\project.h
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<string>
+	<stdexcept>
+	<algorithm>
+	"Utils.h"
+
+1751115242 c:\users\user\documents\year 2 (sem 3)\cpp\final project\final_project\displaylist.h
+	<iostream>
+	<vector>
+	"Project.h"
+	"Task.h"
+	"TeamMember.h"
+	"Vendor.h"
+
+1752170892 c:\users\user\documents\year 2 (sem 3)\cpp\final project\final_project\task.h
+	<iostream>
+	<vector>
+	<string>
+	"Project.h"
+
+1752170866 c:\users\user\documents\year 2 (sem 3)\cpp\final project\final_project\utils.h
+	<ctime>
+	<vector>
+	<iostream>
+	<string>
+	<limits>
+	<algorithm>
+	<tuple>
+	<sstream>
+	<stdexcept>
+	<cstdio>
+
+1752172600 c:\users\user\documents\year 2 (sem 3)\cpp\final project\final_project\teammember.h
+	<iostream>
+	<vector>
+	<string>
+	<fstream>
+	<sstream>
+	<stdexcept>
+	<algorithm>
+	"Utils.h"
+	"Project.h"
+	"Task.h"
+
+1752170927 c:\users\user\documents\year 2 (sem 3)\cpp\final project\final_project\vendor.h
+	"Company.h"
+	"Project.h"
+	"Task.h"
+	"Utils.h"
+	<vector>
+	<string>
+	<iostream>
+	<algorithm>
+	<fstream>
+	<sstream>
+	<stdexcept>
+
+1752172538 c:\users\user\documents\year 2 (sem 3)\cpp\final project\final_project\projectmanagementsystem.h
+	<iostream>
+	<vector>
+	<string>
+	"Project.h"
+	"Task.h"
+	"TaskManager.h"
+	"TeamMember.h"
+	"Company.h"
+	"Vendor.h"
+	"Client.h"
+	"Utils.h"
+
+1752170921 c:\users\user\documents\year 2 (sem 3)\cpp\final project\final_project\company.h
+	<string>
+	<vector>
+	<algorithm>
+
+1752170936 c:\users\user\documents\year 2 (sem 3)\cpp\final project\final_project\client.h
+	<iostream>
+	<vector>
+	<fstream>
+	<sstream>
+	<stdexcept>
+	<algorithm>
+	"Company.h"
+	"Utils.h"
+	"Project.h"
+
+1752170900 c:\users\user\documents\year 2 (sem 3)\cpp\final project\final_project\taskmanager.h
+	<vector>
+	<string>
+	<iostream>
+	<fstream>
+	<algorithm>
+	"Task.h"
+	"Project.h"
+	"Utils.h"
+
+1752375967 source:c:\users\user\documents\year 2 (sem 3)\cpp\final project\ait2309246_cpp_final project_source code\main.cpp
+	<iostream>
+	"ProjectManagementSystem.h"
+
+1752376012 c:\users\user\documents\year 2 (sem 3)\cpp\final project\ait2309246_cpp_final project_source code\projectmanagementsystem.h
+	<iostream>
+	<vector>
+	<string>
+	"Project.h"
+	"Task.h"
+	"TaskManager.h"
+	"TeamMember.h"
+	"Company.h"
+	"Vendor.h"
+	"Client.h"
+	"Utils.h"
+
+1752170885 c:\users\user\documents\year 2 (sem 3)\cpp\final project\ait2309246_cpp_final project_source code\project.h
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<string>
+	<stdexcept>
+	<algorithm>
+	"Utils.h"
+
+1752170866 c:\users\user\documents\year 2 (sem 3)\cpp\final project\ait2309246_cpp_final project_source code\utils.h
+	<ctime>
+	<vector>
+	<iostream>
+	<string>
+	<limits>
+	<algorithm>
+	<tuple>
+	<sstream>
+	<stdexcept>
+	<cstdio>
+
+1752170892 c:\users\user\documents\year 2 (sem 3)\cpp\final project\ait2309246_cpp_final project_source code\task.h
+	<iostream>
+	<vector>
+	<string>
+	"Project.h"
+
+1752170900 c:\users\user\documents\year 2 (sem 3)\cpp\final project\ait2309246_cpp_final project_source code\taskmanager.h
+	<vector>
+	<string>
+	<iostream>
+	<fstream>
+	<algorithm>
+	"Task.h"
+	"Project.h"
+	"Utils.h"
+
+1752172600 c:\users\user\documents\year 2 (sem 3)\cpp\final project\ait2309246_cpp_final project_source code\teammember.h
+	<iostream>
+	<vector>
+	<string>
+	<fstream>
+	<sstream>
+	<stdexcept>
+	<algorithm>
+	"Utils.h"
+	"Project.h"
+	"Task.h"
+
+1752170921 c:\users\user\documents\year 2 (sem 3)\cpp\final project\ait2309246_cpp_final project_source code\company.h
+	<string>
+	<vector>
+	<algorithm>
+
+1752332672 c:\users\user\documents\year 2 (sem 3)\cpp\final project\ait2309246_cpp_final project_source code\vendor.h
+	"Company.h"
+	"Project.h"
+	"Task.h"
+	"Utils.h"
+	<vector>
+	<string>
+	<iostream>
+	<algorithm>
+	<fstream>
+	<sstream>
+	<stdexcept>
+
+1752332680 c:\users\user\documents\year 2 (sem 3)\cpp\final project\ait2309246_cpp_final project_source code\client.h
+	<iostream>
+	<vector>
+	<fstream>
+	<sstream>
+	<stdexcept>
+	<algorithm>
+	"Company.h"
+	"Utils.h"
+	"Project.h"
+
