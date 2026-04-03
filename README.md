@@ -110,5 +110,3 @@ All entities (Projects, Tasks, Members, Vendors, Clients) are stored in **CSV fi
 **Wilbert Yonathan**
 
 CST209 – Object-Oriented Programming (Final Project)
-
----
