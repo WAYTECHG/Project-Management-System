@@ -112,11 +112,3 @@ All entities (Projects, Tasks, Members, Vendors, Clients) are stored in **CSV fi
 CST209 – Object-Oriented Programming (Final Project)
 
 ---
-
-## 🏁 License
-
-This project is released under the  **MIT License** .
-
-You are free to use, modify, and distribute it for educational or personal purposes.
-
----
